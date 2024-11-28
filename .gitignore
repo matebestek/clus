@@ -21,3 +21,8 @@ ClusProject/resources/unitTests/**/*.xval
 ClusProject/resources/unitTests/**/*.model
 ClusProject/resources/unitTests/**/*.oob
 ClusProject/docs/javadoc/
+ClusProject/ediabetes.arff
+ClusProject/ediabetes.out
+ClusProject/ediabetes.s
+ClusProject/.vscode/launch.json
+ClusProject/.vscode/settings.json
