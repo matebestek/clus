@@ -238,6 +238,9 @@ public class TimeSeries implements Serializable {
     	if(ts1 == null) {
     		return ts2 == null;
     	}
+        if(ts2 == null){
+            return ts1 == null;
+        }
     	if(ts1.length() != ts2.length()) {
     		return false;
     	}
